@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late Earl of Lindsey his title by which himself, and his participants, do claim 24000. acres of land in the fennes in Lincoln-shire; and concerning which a bill hath pass'd the House of Lords, and is now with the Commons, impowring Sir Henry Heron and Sir William Killigrew to perfect their undertakings; the which, if it hath not been according to the particulars contained in this paper, the countenance of any member of this House is in no sort desired hereunto.</title>
+            <author>Killigrew, William, Sir, 1606-1695.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25478</idno><idno type="EEBO-CITATION">99828105</idno>
+  <idno type="VID">207564</idno>
+  <idno type="EEBO-PROQUEST">2240887628</idno>
+  
+            <idno type="STC">Wing K460A</idno>
+            <idno type="PROQUEST">99828105</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828105e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late Earl of Lindsey his title by which himself, and his participants, do claim 24000. acres of land in the fennes in Lincoln-shire; and concerning which a bill hath pass'd the House of Lords, and is now with the Commons, impowring Sir Henry Heron and Sir William Killigrew to perfect their undertakings; the which, if it hath not been according to the particulars contained in this paper, the countenance of any member of this House is in no sort desired hereunto.</title>
+                  <author>Killigrew, William, Sir, 1606-1695.</author>
+                  <author>Heron, Henry, Sir. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed and dated at end: July 1: 1661; Henry Heron, William Killigrew.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drainage --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term type="geographic_name">Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207564:1"/>
+            <pb facs="tcp:207564:1"/>
+            <head>The late Earle of <hi>Lindsey</hi> his Title, by which himself, and his Participants, do claim 24000. Acres of Lands in the Fennes in <hi>Lincoln-shire;</hi> and concerning which a Bill hath Pass'd the House of LORDS, and is now with the COMMONS, Impowring Sir <hi>Henry Heron</hi> and Sir <hi>William Killigrew</hi> to perfect their Undertaking; the which, if it hath not been according to the Particulars contained in this Paper, the Countenance of any Member of this House is in no sort desired hereunto.</head>
+            <p>THe Dreyners of <hi>Lindsey</hi> Level in <hi>Lincoln-shire,</hi> being informed, That some Persons do whisper many scandalous Stories in the Eares of many of the Members of Parliament, greatly prejudicial to the Dreyners proceedings in that great undertaking, who to justifie them<g ref="char:EOLhyphen"/>selves, have thought good to publish what herein follows; all which they will justifie.</p>
+            <p>First, We claim by the Law, and Authority of several Decrees of Sewers.</p>
+            <p>Secondly, We claim the same Equity that former Parliaments afforded to such undertakings, We having in this expended near 80000 <hi>l.</hi> to the very great benefit of the Common-wealth, which We hope may merit the same confirmation former Parliaments hath afforded to the like Under<g ref="char:EOLhyphen"/>takings.</p>
+            <p>That Commissions of Sewers were antiently part of the Commission of <hi>Oyer</hi> and <hi>Terminer.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg. 127.</note>
+            </p>
+            <p>That they were issuable at the Kings pleasure, and that the King (as he who had the Supreme care of things of publike concernment) was bound to grant such Commissions upon all emergences.</p>
+            <p>That this was the Constant Opinion, We find in our Antientest Books of Common-law. That it was a constant practise, We find many such Com<g ref="char:EOLhyphen"/>missions <note place="margin">Ca Rep. 10. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>41. In the Reg. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>276. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. N. B. 113. 6. H 6. 5. 25. H. 8. 10. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. Eliz. c. 9. 6. H. 6. 5. 7. Ja. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. H. 8. 5. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. H. 8. 5.</note> issued, two especially, long before any Statutes now known in <hi>England</hi> were made, they were both sent into <hi>Lincoln shire,</hi> and the first into the very parts where the Earle made his Works, and at that time to have done this very Work that the Earle hath now done.</p>
+            <p>But because those Commissioners were temporary, to Persons sometimes Strangers in the Place, and ordinarily in redresse of Mischiefs already happe<g ref="char:EOLhyphen"/>ned by some former inundation, some Statutes have from time to time enlarged the Power of Commissions to act as well in Prevention, as Redress; and appointed those Commissions to Gentlemen living on, or near the Place, who by their timely notice might prevent, and their Authorities were made constant for certain number of years.</p>
+            <p>The first Statute to this purpose we find in <hi>Henry</hi> the third his time, which is as antient as any Statute now known in <hi>England,</hi> very many subsequent Statutes have enlarged their Powers in such Particulars as in experience they found necessary, <hi>viz.</hi> to inable them to tax all Lands which might receive benefit, or avoid losse: to make new Dreyns, if they upon their view and observation found the antient Ones were not sufficient; to distrain, and sell for not payment of those Taxes, or in their discretions to charge such Lands perpetually, or to sell them for years or lives, in Tayle, or in Fee.</p>
+            <p>And because the Commissioners were Gentlemen of the Country, not ever so intelligent in every scruple of Law, it is by later Statutes provided, That their Decrees shall not be examinable but in Parliament▪ as divers heretofore have been; but those Parliaments never avoided them, if they found the course taken by their Commissioners, might probably do the work, though it was not yet really done. But on the contrary, rather than lose the bene<g ref="char:EOLhyphen"/>fit that might thereby accrue to the State (although those Commissioners might in some thing have erred in judgement) they did confirm their Decrees, and som<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>times better the Contract in behalf of the Undertakers, as they did <hi>Tindalls</hi> Law, <hi>Lovells</hi> Law, <hi>&amp;c.</hi>
+            </p>
+            <p>That those Lands undertaken by the Earle of <hi>Lindsey</hi> were hurtfully surrounded in <hi>Henry</hi> the fifth his time, appears by Presentment at a Session of Sew<g ref="char:EOLhyphen"/>ers at that time.</p>
+            <p>That the Earle hath pursued the most effectual course in doing the work appears by Acts of Sewer, at a Session at <hi>Donington</hi> before <hi>Charles Brandon</hi> Duke of <hi>Suffolke,</hi> and many more eminent men in 34 <hi>H.</hi> 8. who decreed the making of new Dreyns in the very same place, and the same out-falls to the Sea that the Earle hath done, only the Earle hath made the same, and some more, and much more capacious, and that the Commissioners then laid the Tax generally, as the Commissioners now laid this last, before their Contract with the Earle.</p>
+            <p>That upon great complaint of the Inhabitants at a Session of Sewers at <hi>Sempringham,</hi> 8 <hi>Eliz.</hi> before the Earle of <hi>Lincoln</hi> Lord High Admiral of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and many more, a general Tax was laid for the repairing and enlarging Dreyns to carry away waters that in those Fenns then annoyed them.</p>
+            <p>At another Session 17 <hi>Eliz.</hi> at <hi>Swinstead,</hi> upon complaint of the Country that they were then more drowned than formerly; the Commissioners then decreed the making such Dreyns as the Duke of <hi>Suffolke</hi> and others had decreed in <hi>Hen.</hi> 8. his time; and such as the Earle hath since made, and they then laid a Tax upon the same Lands, but it was not paid, and so nothing was done.</p>
+            <p>At <hi>Bourne</hi> in 6 <hi>Jac.</hi> the Commissioners upon their view of the great inundations that time, laid a general Tax for doing some work in the said Fennes.</p>
+            <p>But about the 5 <hi>Car.</hi> Sir <hi>Antony Irby,</hi> Sergeant <hi>Callis,</hi> and other Commissioners of Sewers, and of the Peace, then finding all former Attempts fruit<g ref="char:EOLhyphen"/>lesse, by reason the Inhabitants would never pay the Taxes, nor the Lands by reason of the Surrounder had no Cattell upon them to render Distress, and well understanding that the King was bound, as is expressed in the Preamble of all Statutes of Sewers to give direction in works of this nature and <note place="margin">Reg. 127. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 H. 8. c. 5. 7. Ja. 10. 26.</note> necessity. Those Commissioners We say, upon those considerations did by their Letters remonstrate to the then King, the necessities and profits of drey<g ref="char:EOLhyphen"/>ning this Land, and beseech'd his Majesty to recommend some Persons of Honour to contract with them as Undertaker; the King was pleased to recom<g ref="char:EOLhyphen"/>mend the Earle of <hi>Lindsey;</hi> however before they made any Contract with the Earle, they yet laid another Tax of 13 <hi>s.</hi> 4 <hi>d. per</hi> Acre, at a Session at <hi>Sleeford</hi> of 35. Commissioners, many of them Lords and Owners, and prime Gentlemen of the Country, and after three years expectancy of that, and little or none paid, Then 11 <hi>Car.</hi> lest their endeavours should have been as fruitlesse, as formerly, at a publick Session of Sewers, and in a general Assem<g ref="char:EOLhyphen"/>bly of Lords, Owners and Commoners, where were 32. Commissioners, many Lords and Owners of the said Fennes; after many Proposals and Refu<g ref="char:EOLhyphen"/>sals, it was fully agreed, and a perfect Contract made with the said Earle, that the said Lord should have as a reward for dreyning all between <hi>Bourne</hi> and <hi>Lincoln,</hi> 24000 Acres, and as soon as he should have finished that Part between <hi>Bourne</hi> and <hi>Kime,</hi> &amp;c. he should have 14000 Acres, as a proportionable part for so much to be put into his Possession, when by the Commissioners it should be adjudged dreyned.</p>
+            <p>The Earle applyed himself to the work, and 12 <hi>Car.</hi> at a Session at <hi>Boston,</hi> the Commissioners being 24. apportioned his part out of each particular Fenne.</p>
+            <p>At a Session at <hi>Bourne</hi> 13 <hi>Car.</hi> 10 Commissioners ascertained the Place where his Proportion in every Fenne should lye.</p>
+            <p>This Law was after confirmed 15 <hi>Car.</hi> at <hi>Sleeford</hi> by 18 Commissioners.</p>
+            <p>After in the same year by 19 Commissioners it was viewed entirely upon the Place, after at a Session at <hi>Sleeford</hi> the said Commissioners did decree the Possession to the Earle. After which,</p>
+            <p>The Earle did inclose it, build, and inhabit it, plant, plough, sow and reap two years without disturbance, the third year the Parliament then sitting, and having received six clamorous Petitions from some of the Country, and examined many of their witnesses, did as they conceived just, grant Orders from both Houses, to quiet the Earles Possessions, and secure the Croppes then upon the Land: But the Petitioners in contempt of all, (pending their Petitions violently entred and destroyed the Dreyns, Buildings and Croppes then ready to reap, and of a very great value, and have ever since held Pos<g ref="char:EOLhyphen"/>session against the said Earle, and perished his Works, which was the highest contempt that ever was done to a Parliament sitting.</p>
+            <p>IN the year 1646. after the War ended, the Dreyners did Petition the same long Parliament to restore them to their Possession, and to settle the said Dreyning, and the Parliament did refer the business unto a Committee, where all the Members had voyces, that would come, and after seven years examination of all Differences complained of by the Dreyners and the Rioters, with their Councels on both sides, untill that both sides did publikely declare to the Committee, that neither Party had more to say: Whereupon, the Committee to give both Parties content, did refer the drawing up of the Report unto the Solicitors and their Councels on both sides, out of all the Papers and Examinations that lay in the Clerk of the Committees hands; and accordingly the Report was by them drawn up, and every leaf thereof signed under by the said Solicitors and the Councels: And this was done by Ma<g ref="char:EOLhyphen"/>ster <hi>Thomas Hall</hi>'s advice, who did assist the Solicitor for the Rioters, and did approve of every Particular before it was entered into the said Report; which was after delivered by both Parties unto the Committee, and by the Chaire-man of the Committee, was presented unto the House, and on the reading thereof, the Parliament did Order a Bill to be brought in, for making an Act to settle the said Undertakings, and did appoint several dayes to read the said Bill, which was tendred by Master <hi>John Goodwin:</hi> but that Parliament did end before it could be perfected. As the Parliament Records do shew.</p>
+            <p>THe Fennes in Question have ever been hurtfully surrounded, and that for some hundred years last past it hath been the constant endeavour of the Country to Dreyn them, which could never be by them effected, untill the late Earle of <hi>Lindsey</hi> did undertake and perform that Work. Upon Con<g ref="char:EOLhyphen"/>tract, and much importunity from the Country.</p>
+            <p>It also appears by the Lords and Owners not paying their Tax of 13 <hi>s.</hi> 4 <hi>d.</hi> an Acre, that they did not value those Fenne-lands to be so much worth, be<g ref="char:EOLhyphen"/>fore the Earle's Undertaking, only the Earle of <hi>Lincoln</hi> did pay his Tax for 300 Acres, and his said Lands he holds by the same price.</p>
+            <p>Also when the Earle had perfected his Contract with the Commissioners after four or five years Treaty for 30000 Acres, and at last agreed for 24000 Acres on the Countries free proffer thereof, he did publikely propose to any of the Country that would, should be admitted into Partnership with him for doing the work at Forty shillings an Acre; but the work was thought in those dayes so hazardous, and the Land so little worth, that only the Lord <hi>Cobham,</hi> Sir <hi>Edward Heron,</hi> and Mr. <hi>William Langton,</hi> did come in to adventure for their own Fennes only at Forty shillings the Acre.</p>
+            <p>Lastly, note that all Treaties for this Dreyning was ever in publike many thousand of Commoners present; and when the Contract between the Commoners, and the Earle was made at <hi>Sleeford</hi> in that Church, in presence of six or seven thousand of the Commoners, no one dissenting, but so joyed that the Earle would accept of 24000 Acres, that the Earle was much crowded by the People, who accompanyed him to his Lodging, throwing up their Hats, and hollowing lowdly Acclamations of joy in his Honour, where it cost the Earle 150 <hi>l.</hi> in Meat and Drink amongst these kind men; for if any words of Dislike had been from the Country, the Earle and his Participants would never have laid out their Estates on this work, but when so many endeavours of past Ages had been fruitlesse, and upon invitation from the Commoners, and after five or six years publike Treaty, in the face of the Coun<g ref="char:EOLhyphen"/>try, a Contract was thus made; and three years after, when that hazardous work beyond expectation was perfected by the Earle, Who could imagine to find such Ingratitude as now appears from those who were so mightily benefited by this work!</p>
+            <p>'Tis also evident by the Dreyners great Houses built, and the 14000. Acres being planted, plowed, sowed, and reaped for three years together, that those works were fully performed, and that they had Possession.</p>
+            <p>And it appears by the Dreyners Houses being pull'd down, their Corn and Plantations, with all those chargeable Works destroyed, that the Drey<g ref="char:EOLhyphen"/>ners were thrown out by a Riot.</p>
+            <closer>
+               <dateline>
+                  <date>July 1. 1661.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Henry Heron.</item>
+                     <item>William Killigrew.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
